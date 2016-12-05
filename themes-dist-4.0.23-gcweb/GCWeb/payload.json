@@ -1,0 +1,114 @@
+{
+  "@/css/ie8-theme-srv.css": {
+    "hashes": {
+      "sha256": "xDgnYiUMlhcZDiqhN1YFy0Ls6dlmG7Zmh15ZwbI4ug4=",
+      "sha512": "Uf61IT8Ok/+Gpxm3tATc/qLQ0GAxII8ng6vAbJ9sPfY/hZ4Rwi+vNovfONDXtD9OYX8S4Cs7Ld5JkY0PGwZ8yg=="
+    },
+    "integrity": "sha256-xDgnYiUMlhcZDiqhN1YFy0Ls6dlmG7Zmh15ZwbI4ug4= sha512-Uf61IT8Ok/+Gpxm3tATc/qLQ0GAxII8ng6vAbJ9sPfY/hZ4Rwi+vNovfONDXtD9OYX8S4Cs7Ld5JkY0PGwZ8yg==",
+    "path": "/css/ie8-theme-srv.css"
+  },
+  "@/css/ie8-theme-srv.min.css": {
+    "hashes": {
+      "sha256": "wY1G2a/XpBhOsX4IYJB+NUiovXKJCnc4OeoYWfkHFe4=",
+      "sha512": "FzxUmNPkqRWgyNJ/YePQn7J+AFPVSWTSLQJDpVD0xRwyEepuyPdAmJsjYgOQOmD8fXcaioIhpBwFL03cu2GcIQ=="
+    },
+    "integrity": "sha256-wY1G2a/XpBhOsX4IYJB+NUiovXKJCnc4OeoYWfkHFe4= sha512-FzxUmNPkqRWgyNJ/YePQn7J+AFPVSWTSLQJDpVD0xRwyEepuyPdAmJsjYgOQOmD8fXcaioIhpBwFL03cu2GcIQ==",
+    "path": "/css/ie8-theme-srv.min.css"
+  },
+  "@/css/ie8-theme.css": {
+    "hashes": {
+      "sha256": "JNF1v5Tgxb9cBydzhchDOA01UaGI7KTwj+LIJ1y7O44=",
+      "sha512": "5Mbd0fC/jKgJBvfsfVYP0WOy2w3hQf0HRpuPKyuQAKa3oXAzRExNwXtWKZOoJLNKG5u8CmCeECSlRvgujmdk0A=="
+    },
+    "integrity": "sha256-JNF1v5Tgxb9cBydzhchDOA01UaGI7KTwj+LIJ1y7O44= sha512-5Mbd0fC/jKgJBvfsfVYP0WOy2w3hQf0HRpuPKyuQAKa3oXAzRExNwXtWKZOoJLNKG5u8CmCeECSlRvgujmdk0A==",
+    "path": "/css/ie8-theme.css"
+  },
+  "@/css/ie8-theme.min.css": {
+    "hashes": {
+      "sha256": "T48DoAPuRChWaSX5pguEZHUXJiwVEp+r/RQ7Quax6qE=",
+      "sha512": "/9Ap4nB8UPGiaj/qGecDA7TJ+ofNXYsxYlFRaII0sknJLuBQ3Vtaa9GR3jtinZYm5lKDVLdT1/EHy0lKHX2fOw=="
+    },
+    "integrity": "sha256-T48DoAPuRChWaSX5pguEZHUXJiwVEp+r/RQ7Quax6qE= sha512-/9Ap4nB8UPGiaj/qGecDA7TJ+ofNXYsxYlFRaII0sknJLuBQ3Vtaa9GR3jtinZYm5lKDVLdT1/EHy0lKHX2fOw==",
+    "path": "/css/ie8-theme.min.css"
+  },
+  "@/css/messages-ie.css": {
+    "hashes": {
+      "sha256": "isxXYYI1GjEuDqZa3esK1Dl72Znd9cfJxWGoEIcPocY=",
+      "sha512": "5n4meldvt7//r7ftGbK2EbV+ySz8WCUFji50gtZp68Ia7WLskUzzQMvoqSNn6LsgS12M32cJ4KP5iS15tUh08w=="
+    },
+    "integrity": "sha256-isxXYYI1GjEuDqZa3esK1Dl72Znd9cfJxWGoEIcPocY= sha512-5n4meldvt7//r7ftGbK2EbV+ySz8WCUFji50gtZp68Ia7WLskUzzQMvoqSNn6LsgS12M32cJ4KP5iS15tUh08w==",
+    "path": "/css/messages-ie.css"
+  },
+  "@/css/messages-ie.min.css": {
+    "hashes": {
+      "sha256": "+keHyZhYF2pwMZKmI1aqETEVOgnDyc0WDW7hm0wUPLI=",
+      "sha512": "7NBXKXbArJpp/yhOMb6ZabEusVem+pGyh0rIs87SaV7XL4n5SXjtx3LQb4wgS/RLZq7yvmPd05QQ/FGa/ObOiA=="
+    },
+    "integrity": "sha256-+keHyZhYF2pwMZKmI1aqETEVOgnDyc0WDW7hm0wUPLI= sha512-7NBXKXbArJpp/yhOMb6ZabEusVem+pGyh0rIs87SaV7XL4n5SXjtx3LQb4wgS/RLZq7yvmPd05QQ/FGa/ObOiA==",
+    "path": "/css/messages-ie.min.css"
+  },
+  "@/css/messages.css": {
+    "hashes": {
+      "sha256": "/Q3kF2T8h4M/IWFm7C3oDVc3UAod9/08uiWywg6/ajI=",
+      "sha512": "QYUoQUBSVkNZny5QkNzkj/yYYW4Rj8/q417jeScNduJjuViExgSChJ2Swc2OYwo8RYsGjpwg4egnKG7OSMyWLQ=="
+    },
+    "integrity": "sha256-/Q3kF2T8h4M/IWFm7C3oDVc3UAod9/08uiWywg6/ajI= sha512-QYUoQUBSVkNZny5QkNzkj/yYYW4Rj8/q417jeScNduJjuViExgSChJ2Swc2OYwo8RYsGjpwg4egnKG7OSMyWLQ==",
+    "path": "/css/messages.css"
+  },
+  "@/css/messages.min.css": {
+    "hashes": {
+      "sha256": "JiyBm7ao4I0pgxSHo/jicJK/9cgnP6tvD+Cjt/73h3k=",
+      "sha512": "X7G+X6u53wLQ5fwXptGBtxu9r3LFz74fAa3wZyjclhqIKgtKLP/9qYoGx6qCLu8ixt3w2DuDXb5oDgstEZk79Q=="
+    },
+    "integrity": "sha256-JiyBm7ao4I0pgxSHo/jicJK/9cgnP6tvD+Cjt/73h3k= sha512-X7G+X6u53wLQ5fwXptGBtxu9r3LFz74fAa3wZyjclhqIKgtKLP/9qYoGx6qCLu8ixt3w2DuDXb5oDgstEZk79Q==",
+    "path": "/css/messages.min.css"
+  },
+  "@/css/theme-srv.css": {
+    "hashes": {
+      "sha256": "cODcrJIhvf1N6LWzPEAszmYkO0CeNrcLuve+tvh325o=",
+      "sha512": "BPFllDFd03pL5odizPch+kxUollTvsqwzlVSeWw4sp9RHTwQNBltb07MIPV0fSh/Dss7981fXCiW/WS5PCcYwg=="
+    },
+    "integrity": "sha256-cODcrJIhvf1N6LWzPEAszmYkO0CeNrcLuve+tvh325o= sha512-BPFllDFd03pL5odizPch+kxUollTvsqwzlVSeWw4sp9RHTwQNBltb07MIPV0fSh/Dss7981fXCiW/WS5PCcYwg==",
+    "path": "/css/theme-srv.css"
+  },
+  "@/css/theme-srv.min.css": {
+    "hashes": {
+      "sha256": "P0103zfMcmsZoHEU/VPaapuFW3516ce3DVM85aQhH3s=",
+      "sha512": "odUKjy6Xsl08dNwo8C6366Plmnc6X7ijtf8tiIUz0DwJ7M5oDPeWJWMxOsPBUpT/DXaXH+Ls5Hod9UmuOEY6Zw=="
+    },
+    "integrity": "sha256-P0103zfMcmsZoHEU/VPaapuFW3516ce3DVM85aQhH3s= sha512-odUKjy6Xsl08dNwo8C6366Plmnc6X7ijtf8tiIUz0DwJ7M5oDPeWJWMxOsPBUpT/DXaXH+Ls5Hod9UmuOEY6Zw==",
+    "path": "/css/theme-srv.min.css"
+  },
+  "@/css/theme.css": {
+    "hashes": {
+      "sha256": "shwOXEnIgM4NoZP9aimDfn+535GrIv6kcq9CLQNean0=",
+      "sha512": "mv7Z99BjEOQuBVTCPBpbcxxUKWpDwl79qN7ZNVs7VFt+H7wLcOIN+fC1v9senqtBciSIX8xFHJu0WNmyalGoDA=="
+    },
+    "integrity": "sha256-shwOXEnIgM4NoZP9aimDfn+535GrIv6kcq9CLQNean0= sha512-mv7Z99BjEOQuBVTCPBpbcxxUKWpDwl79qN7ZNVs7VFt+H7wLcOIN+fC1v9senqtBciSIX8xFHJu0WNmyalGoDA==",
+    "path": "/css/theme.css"
+  },
+  "@/css/theme.min.css": {
+    "hashes": {
+      "sha256": "wiVI0GF1Ka40+7vxxCBISNIWDdaf3RT+mZznta9sNqM=",
+      "sha512": "s5cbJcjcV/iGBrcoXmtm+nycUpM+dYg+znLCCCvrxSMPBVBOY5AgjHt7Nkbzrge8H60W7pFOgip6Z29EvmsXDw=="
+    },
+    "integrity": "sha256-wiVI0GF1Ka40+7vxxCBISNIWDdaf3RT+mZznta9sNqM= sha512-s5cbJcjcV/iGBrcoXmtm+nycUpM+dYg+znLCCCvrxSMPBVBOY5AgjHt7Nkbzrge8H60W7pFOgip6Z29EvmsXDw==",
+    "path": "/css/theme.min.css"
+  },
+  "@/js/theme.js": {
+    "hashes": {
+      "sha256": "INXgSVxeySfPRGLRDE5UBMaN8EKd2GKRAYaAOJwal+w=",
+      "sha512": "EUxS0IqC1mJkhu1U3q6HJ2rVZUPGnoizKvfVbiYOKXUNO8cYKJ0YGUPZKHLQUOiER+qcopZj1OnA4U/9J2ZfRA=="
+    },
+    "integrity": "sha256-INXgSVxeySfPRGLRDE5UBMaN8EKd2GKRAYaAOJwal+w= sha512-EUxS0IqC1mJkhu1U3q6HJ2rVZUPGnoizKvfVbiYOKXUNO8cYKJ0YGUPZKHLQUOiER+qcopZj1OnA4U/9J2ZfRA==",
+    "path": "/js/theme.js"
+  },
+  "@/js/theme.min.js": {
+    "hashes": {
+      "sha256": "dKa+mcNOO30WSjdiTs7K2AwH1vw03/d56W+tbQDL0ZA=",
+      "sha512": "dWlGZxSf67T+awPjufUm3rV6tCaiMhfNOfoW5QHE1EUmfh59+IdyJO7QgTAoJeyRXPjh3xfkMdxmue2fwyBy6g=="
+    },
+    "integrity": "sha256-dKa+mcNOO30WSjdiTs7K2AwH1vw03/d56W+tbQDL0ZA= sha512-dWlGZxSf67T+awPjufUm3rV6tCaiMhfNOfoW5QHE1EUmfh59+IdyJO7QgTAoJeyRXPjh3xfkMdxmue2fwyBy6g==",
+    "path": "/js/theme.min.js"
+  }
+}

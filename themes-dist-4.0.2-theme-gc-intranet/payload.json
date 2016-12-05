@@ -1,0 +1,10 @@
+{
+  "@/css/theme.min.css": {
+    "hashes": {
+      "sha256": "63HTgoPyBEh3ZMK4ytUhHuCsOWE9B+atB84dPWs7Z94=",
+      "sha512": "TkiyTEPkV422ySpKZtPccxkYBaa9leSSeMlCynB1/StsjyvV2wLSZZnDayy5klhfrEwzZVLFgs/ira3VvR9k0Q=="
+    },
+    "integrity": "sha256-63HTgoPyBEh3ZMK4ytUhHuCsOWE9B+atB84dPWs7Z94= sha512-TkiyTEPkV422ySpKZtPccxkYBaa9leSSeMlCynB1/StsjyvV2wLSZZnDayy5klhfrEwzZVLFgs/ira3VvR9k0Q==",
+    "path": "/css/theme.min.css"
+  }
+}

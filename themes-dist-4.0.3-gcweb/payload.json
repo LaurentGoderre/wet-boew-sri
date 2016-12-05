@@ -1,0 +1,42 @@
+{
+  "@/css/messages-ie.min.css": {
+    "hashes": {
+      "sha256": "nU9y6u/1Y3Ny3Lc3sKFoF56f7TbPI2OT2wcE/QZJzbE=",
+      "sha512": "WFSYy5GD366fSqeZITQmaFg5VW+qabBsOVnN5mb/NahqSKUovBes2ZzX0+DRw4NR87FPUTKgE5fJRvqpwjhk/Q=="
+    },
+    "integrity": "sha256-nU9y6u/1Y3Ny3Lc3sKFoF56f7TbPI2OT2wcE/QZJzbE= sha512-WFSYy5GD366fSqeZITQmaFg5VW+qabBsOVnN5mb/NahqSKUovBes2ZzX0+DRw4NR87FPUTKgE5fJRvqpwjhk/Q==",
+    "path": "/css/messages-ie.min.css"
+  },
+  "@/css/messages.min.css": {
+    "hashes": {
+      "sha256": "kWC2KhxNGckcEWafEmxhyfUW+YPQFr6l/Kf6NGyBiwg=",
+      "sha512": "i2ZHKkXRT8JHgidUeDlS1TfwJKO1+is53+PPnOA9qAo2szgrNrxk7HT6QLJMwWMXCdg3F0np5xTIpsQ9gLrSiw=="
+    },
+    "integrity": "sha256-kWC2KhxNGckcEWafEmxhyfUW+YPQFr6l/Kf6NGyBiwg= sha512-i2ZHKkXRT8JHgidUeDlS1TfwJKO1+is53+PPnOA9qAo2szgrNrxk7HT6QLJMwWMXCdg3F0np5xTIpsQ9gLrSiw==",
+    "path": "/css/messages.min.css"
+  },
+  "@/css/mobile-centre.min.css": {
+    "hashes": {
+      "sha256": "RejQXImVvgRZtxhWqQB87l8/n3PtkwVmL5LvSRa+jhQ=",
+      "sha512": "D1LJ7LOcJ/SnnZFwUjlMl+l/glpC/GiZD4hDrKDUivp5ZyhxBP7rPcJ2u/LDWaqyzbhZq+JeI/PZqoPrFpigCQ=="
+    },
+    "integrity": "sha256-RejQXImVvgRZtxhWqQB87l8/n3PtkwVmL5LvSRa+jhQ= sha512-D1LJ7LOcJ/SnnZFwUjlMl+l/glpC/GiZD4hDrKDUivp5ZyhxBP7rPcJ2u/LDWaqyzbhZq+JeI/PZqoPrFpigCQ==",
+    "path": "/css/mobile-centre.min.css"
+  },
+  "@/css/social-media-centre.min.css": {
+    "hashes": {
+      "sha256": "fdcOni1yhOkGijnlN2hYb3M/2tFthM3LdkiUE1fdio4=",
+      "sha512": "erJb/TkW4SzVwEJqpPuFJN0NnnQ1BJLU+O/ZR6g9G62mEYB2MRvx9ETSHddS1am76DquhtcK/GqF/YQ872lzNg=="
+    },
+    "integrity": "sha256-fdcOni1yhOkGijnlN2hYb3M/2tFthM3LdkiUE1fdio4= sha512-erJb/TkW4SzVwEJqpPuFJN0NnnQ1BJLU+O/ZR6g9G62mEYB2MRvx9ETSHddS1am76DquhtcK/GqF/YQ872lzNg==",
+    "path": "/css/social-media-centre.min.css"
+  },
+  "@/css/theme.min.css": {
+    "hashes": {
+      "sha256": "GFKD9qiN7TwFU+9HAI9fhETAkPSRLBE8KQXx7qDLopI=",
+      "sha512": "4GULOi/q0uyD+IpA4VAUX7wyRYU/efBmG2pH5X9yVpLGeHA02EK9IZihD2bLY+nEeaxVNpPQbq2pu72byUP5/Q=="
+    },
+    "integrity": "sha256-GFKD9qiN7TwFU+9HAI9fhETAkPSRLBE8KQXx7qDLopI= sha512-4GULOi/q0uyD+IpA4VAUX7wyRYU/efBmG2pH5X9yVpLGeHA02EK9IZihD2bLY+nEeaxVNpPQbq2pu72byUP5/Q==",
+    "path": "/css/theme.min.css"
+  }
+}

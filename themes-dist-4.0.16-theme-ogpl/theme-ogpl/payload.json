@@ -1,0 +1,50 @@
+{
+  "@/css/ie8-theme.css": {
+    "hashes": {
+      "sha256": "z7aQ+F5FVkBdZDCG/pVifBgpD+mhHed7ig1pXs1OCLk=",
+      "sha512": "hIyEKq1isEG9/MmK53C0J+EBigFaZMkHJeuAnn61c4f0S3GSKHJDlH21Y0pPHUnLqufTa+Q0JZ2n0TsM6iuV3g=="
+    },
+    "integrity": "sha256-z7aQ+F5FVkBdZDCG/pVifBgpD+mhHed7ig1pXs1OCLk= sha512-hIyEKq1isEG9/MmK53C0J+EBigFaZMkHJeuAnn61c4f0S3GSKHJDlH21Y0pPHUnLqufTa+Q0JZ2n0TsM6iuV3g==",
+    "path": "/css/ie8-theme.css"
+  },
+  "@/css/ie8-theme.min.css": {
+    "hashes": {
+      "sha256": "YQgISwborbKozYYjLC4VKJZubSo+hcFjiXhl5RpHN58=",
+      "sha512": "HKJ58OjKahLS5GEXCPWfbdapW8aeNX/gB9GIQZVHiGdDONQMBPP3znfA1xlxY0o251WhLYGc0Kx5zWiFTTNYtw=="
+    },
+    "integrity": "sha256-YQgISwborbKozYYjLC4VKJZubSo+hcFjiXhl5RpHN58= sha512-HKJ58OjKahLS5GEXCPWfbdapW8aeNX/gB9GIQZVHiGdDONQMBPP3znfA1xlxY0o251WhLYGc0Kx5zWiFTTNYtw==",
+    "path": "/css/ie8-theme.min.css"
+  },
+  "@/css/theme.css": {
+    "hashes": {
+      "sha256": "GDCMMGd+F4Sjquxs2fRWDXProSvDTKFF9rzx30W6IEg=",
+      "sha512": "0N/vaJPBfGDQEouAGj6UDwLuR8zKgPMbMpWe4MfsjIEOFXCZRVUO6Uq8bOw/NQCmorsb3tUJs9au2oM6xUEc9Q=="
+    },
+    "integrity": "sha256-GDCMMGd+F4Sjquxs2fRWDXProSvDTKFF9rzx30W6IEg= sha512-0N/vaJPBfGDQEouAGj6UDwLuR8zKgPMbMpWe4MfsjIEOFXCZRVUO6Uq8bOw/NQCmorsb3tUJs9au2oM6xUEc9Q==",
+    "path": "/css/theme.css"
+  },
+  "@/css/theme.min.css": {
+    "hashes": {
+      "sha256": "q9xrg8PR0rHiOhVAo0T3/x2FfR7qU8xVNybZsCW29Xk=",
+      "sha512": "P+M3z1Q0OvjmfAa5/7BRGtFRglHnZ4FRihSlcyXa3K4ANp2pj6W3QGAijjaFyr4VEIN70HepjpnVb2xf4ViY4g=="
+    },
+    "integrity": "sha256-q9xrg8PR0rHiOhVAo0T3/x2FfR7qU8xVNybZsCW29Xk= sha512-P+M3z1Q0OvjmfAa5/7BRGtFRglHnZ4FRihSlcyXa3K4ANp2pj6W3QGAijjaFyr4VEIN70HepjpnVb2xf4ViY4g==",
+    "path": "/css/theme.min.css"
+  },
+  "@/js/theme.js": {
+    "hashes": {
+      "sha256": "CPH+XIY6u8m/a1nEL0RKII85x0g+lkOjrSDOoAH3Bt8=",
+      "sha512": "3ZYuWMPthZlVY4Jn4erWk87HTNXMKY2OADNPHIqgIChWRempxQVgaKF1B+OJ/OAlMu7Ib0Y4EGhAJzH/dZsAsg=="
+    },
+    "integrity": "sha256-CPH+XIY6u8m/a1nEL0RKII85x0g+lkOjrSDOoAH3Bt8= sha512-3ZYuWMPthZlVY4Jn4erWk87HTNXMKY2OADNPHIqgIChWRempxQVgaKF1B+OJ/OAlMu7Ib0Y4EGhAJzH/dZsAsg==",
+    "path": "/js/theme.js"
+  },
+  "@/js/theme.min.js": {
+    "hashes": {
+      "sha256": "39RLgA5aMs+yALn3lFbkVbn1LxeV+042KS1AV7JhOok=",
+      "sha512": "kRufTT6CbpUC1Jfvk1WpUNaOut3uT+uG21EWi21GsKTqY9UFYoPEf9lyAou9mwxlvwx5kvAWG+35VpH9i6r1xg=="
+    },
+    "integrity": "sha256-39RLgA5aMs+yALn3lFbkVbn1LxeV+042KS1AV7JhOok= sha512-kRufTT6CbpUC1Jfvk1WpUNaOut3uT+uG21EWi21GsKTqY9UFYoPEf9lyAou9mwxlvwx5kvAWG+35VpH9i6r1xg==",
+    "path": "/js/theme.min.js"
+  }
+}
